@@ -1,0 +1,28 @@
+copycat
+
+vampire
+master
+count
+
+renfield
+
+diseased
+cupid
+instigator
+priest
+
+assassin
+assassin's apprentice
+
+
+
+marksman
+pickpocket
+goblin
+
+
+
+
+traits of roles
+is_vampire = T/F		# vamp team lose if a vampire dies, win if none do
+team = vamp
